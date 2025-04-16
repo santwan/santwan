@@ -30,10 +30,10 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santwan&show_icons=true&theme=tokyonight" alt="yourusername" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="yourusername" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santwan&theme=tokyonight" alt="yourusername" />
 </p>
 
 ---
