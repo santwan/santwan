@@ -5,12 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
-- 🌱 I’m currently learning **[React / FastAPI / ML / etc.]**
-- 👨‍💻 All of my projects are available at [yourportfolio.com](https://yourportfolio.com)
-- 💬 Ask me about **[topic1, topic2, etc.]**
-- 📫 How to reach me: **your@email.com**
-- 📄 Know about my experiences: [Resume](https://link-to-your-resume)
-- ⚡ Fun fact: **[Your fun fact]**
+
 
 ---
 
