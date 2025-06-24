@@ -37,8 +37,7 @@
 ---
 
 ### 🧠 Currently Working On:
-- 🚀 WeCode — [A Full stack Coding website similar to LeetCode(not a clone), Have my own features and design]
-- 📚 [Learning Goal] — [e.g. AI/ML, Web3, DevOps]
+-- Imporoving my DSA and fundamental knowledge
 
 ---
 
