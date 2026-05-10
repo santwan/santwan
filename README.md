@@ -44,12 +44,15 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-![Santwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santwan&show_icons=true&theme=tokyonight&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santwan&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santwan&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=santwan&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santwan&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=santwan&theme=tokyonight&hide_border=true" />
 
 </div>
